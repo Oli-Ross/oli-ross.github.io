@@ -1,0 +1,4 @@
+title = "Meine Website"
+baseurl = "https://oliverross.github.io"
+theme = "hugo-paper"
+languageCode = "de-DE"
