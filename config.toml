@@ -15,9 +15,8 @@ mode = "dark-mode"
 
 # Sidebar: about/bio
 [params.about]
-title = "About me"
-description = "A regular human being."
-# logo = "images/rice.svg"
+title = "Contact"
+description = "Reach me here:"
 
 # Sidebar: social links
 # Available icon sets:
@@ -35,6 +34,11 @@ title = "Email"
 url = "mailto:mail@oliver-ross.at"
 
 [menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about/"
+    weight = 10
 
 [taxonomies]
 category = "categories"
