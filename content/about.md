@@ -15,5 +15,4 @@ security, cryptography and machine learning.
 I have experience with C, Python and Bash. During my studies I use
 Latex extensively, also for presentations with `beamer` and `tikz`.
 
-Currently I am working on my master thesis on generating adversarial images for
-neural networks in the frequency domain.
+Currently I am working on my master thesis on replicating the [membership inference attack](https://arxiv.org/abs/1610.05820) against machine learning models.
