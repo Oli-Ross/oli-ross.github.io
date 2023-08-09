@@ -1,5 +1,5 @@
-title = "Oliver Roß"
-baseurl = "https://oliverross.github.io"
+title = "Oli Roß"
+baseurl = "https://oli-ross.github.io"
 theme = "risotto"
 languageCode = "de-DE"
 
@@ -25,12 +25,12 @@ description = "Reach me here:"
 [[params.socialLinks]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/OliverRoss"
+url = "https://github.com/Oli-Ross"
 
 [[params.socialLinks]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:mail@oliver-ross.at"
+url = "mailto:mail@oliross.at"
 
 [menu]
   [[menu.main]]
