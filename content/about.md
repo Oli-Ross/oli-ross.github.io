@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-I am Oli Roß, a Computer scientist from Innsbruck, Austria.
+I am Oli Roß (they/them), a Computer scientist from Innsbruck, Austria.
 
 After completing a BSc. in Physics at the University of Innsbruck, I enrolled for
 the Master's program of Computer Science. 
