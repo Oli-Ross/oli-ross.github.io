@@ -8,6 +8,5 @@ Hey!
 
 It looks like you found my homepage.
 
-This is a simple static website combining [hugo](https://gohugo.io/) and 
-[Github Pages](https://pages.github.com/) for a simple static CV-like website.
+This is a simple static CV-like website combining [hugo](https://gohugo.io/) and [Github Pages](https://pages.github.com/).
 Check out the [about](/about) page, if you want to know what I do.
