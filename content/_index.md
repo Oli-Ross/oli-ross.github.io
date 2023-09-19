@@ -7,6 +7,10 @@ draft: false
 Hey! 
 
 It looks like you found my homepage.
+I am Oli Roß (they/them), a computer scientist from Innsbruck, Austria.
 
-This is a simple static CV-like website combining [hugo](https://gohugo.io/) and [Github Pages](https://pages.github.com/).
-Check out the [about](/about) page, if you want to know what I do.
+After completing a BSc. in Physics at the University of Innsbruck, I'm now enrolled in the Master's program of Computer Science. 
+My focus is on information security, privacy and machine learning. 
+
+I'm currently working on my master thesis on replicating the [membership inference attack](https://arxiv.org/abs/1610.05820) against machine learning models.
+You can track my current progress [here](https://github.com/Oli-Ross/replicating_mia).
