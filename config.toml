@@ -32,13 +32,6 @@ icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:mail@oliross.at"
 
-[menu]
-  [[menu.main]]
-    identifier = ""
-    name = ""
-    url = ""
-    weight = 10
-
 [taxonomies]
 category = "categories"
 tag = "tags"
