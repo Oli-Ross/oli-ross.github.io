@@ -34,10 +34,6 @@ url = "mailto:mail@oliross.at"
 
 [menu]
   [[menu.main]]
-    identifier = "about"
-    name = "about"
-    url = "/about/"
-    weight = 10
 
 [taxonomies]
 category = "categories"
