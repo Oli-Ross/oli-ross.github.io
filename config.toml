@@ -32,6 +32,11 @@ icon = "fas fa-envelope"
 title = "Email"
 url = "mailto:mail@oliross.at"
 
+[[params.socialLinks]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/oli-ro%C3%9F-b88424279/"
+
 [taxonomies]
 category = "categories"
 tag = "tags"
