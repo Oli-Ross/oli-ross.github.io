@@ -21,6 +21,13 @@ jobs:
         with:
           hugo-version: 'latest'
 
+      - name: Patch risotto
+        run: |
+          mv remove_lang.patch themes/risotto
+          cd themes/risotto
+          git apply remove_lang.patch
+          cd ../..
+
       - name: Build
         run: hugo --minify
 
