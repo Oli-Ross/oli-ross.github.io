@@ -1,0 +1,19 @@
+/* Override this file to customise the theme's CSS for your site */
+@font-face {
+    font-family: 'DejaVuSansMono';
+	src: url('/fonts/DejaVuSansMono.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	}
+body {
+    font-family: 'DejaVuSansMono', monospace; /* 'monospace' as fallback */
+}
+@font-face {
+    font-family: 'DejaVuSansMono';
+	src: url('/fonts/DejaVuSansMono-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	}
+body {
+    font-family: 'DejaVuSansMono', monospace; /* 'monospace' as fallback */
+}
