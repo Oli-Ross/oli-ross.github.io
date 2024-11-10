@@ -7,14 +7,11 @@ draft: false
 Hey! 
 
 It looks like you found my homepage.
-I am Oli Roß (they/them), a computer scientist from Innsbruck, Austria.
 
-After completing a BSc. in Physics, I'm about to finish my Master's degree in Computer Science, both at the University of Innsbruck.
-My focus was on information security, privacy and machine learning. 
+My name is Oli Roß (they/them) and I am a data scientist in Innsbruck, Austria.
 
-I recently completed my Master's thesis on replicating the [membership inference attack](https://arxiv.org/abs/1610.05820) against machine learning models,
-you can check out the code [here](https://github.com/Oli-Ross/replicating_mia).
+I earned a BSc. in Physics and an MSc. in Computer Science, both at the University of Innsbruck. My focus was on information security, privacy and adversarial machine learning.
+Recently, I completed my Master's thesis on replicating the [membership inference attack](https://arxiv.org/abs/1610.05820) against machine learning models, you can check out the code [here](https://github.com/Oli-Ross/replicating_mia).
 
-Other previous projects include a [mini-C compiler](https://github.com/Oli-Ross/mcc) written in C or hacking together [a bunch of build scripts](https://github.com/Oli-Ross/ArchPatches) for Arch Linux to adapt some programs to my needs.
-
-I am currently looking for a job, feel free to [contact me](mailto:mail@oliross.at).
+I love learning and am currently broadening my understanding of information security and privacy.
+Don't hesitate to [contact me](mailto:mail@oliross.at).
