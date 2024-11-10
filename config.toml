@@ -1,7 +1,7 @@
 title = "Oli Roß"
 baseurl = "https://oli-ross.github.io"
 theme = "risotto"
-languageCode = "de-DE"
+languageCode = "en-US"
 
 # Automatically add content sections to main menu
 sectionPagesMenu = "main"
